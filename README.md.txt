@@ -1,0 +1,12 @@
+# Bank Data Analytics - Internship Project
+
+## Overview
+This repository contains the data analytics work for the Bank Data Analytics project assigned during the Veda Technology Internship.
+
+## Data Preprocessing & Cleaning
+* **Data Type Conversion:** Identified and corrected column data types (e.g., converted strings/objects to numeric/datetime formats) to ensure proper analysis and calculations.
+* **Missing Value Handling:** Analyzed missing data points across features and applied appropriate strategies (such as imputation or dropping redundant entries) to prepare a clean dataset.
+
+## Repository Contents
+* `Bank Data Analytics - Copy.xlsx` - Cleaned and processed dataset.
+* `README.md.txt` - Documentation of project workflow and steps.
